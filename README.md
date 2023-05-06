@@ -14,6 +14,3 @@ An interactive Web application which shows the weather of any city or country in
 ->used unsplash to change the background image as per the searched location.<br>
 
 ### Check out the Mosam right now!
-
-• Project Link: https://oyesaurabh.github.io/mosam/<br>
-• Source Code: https://github.com/oyeSAURABH/mosam
